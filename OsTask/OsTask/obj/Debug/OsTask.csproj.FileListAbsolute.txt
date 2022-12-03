@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\OsTask\OsTask\bin\Debug\OsTask.exe.config
+C:\Users\user\source\repos\OsTask\OsTask\bin\Debug\OsTask.exe
+C:\Users\user\source\repos\OsTask\OsTask\bin\Debug\OsTask.pdb
+C:\Users\user\source\repos\OsTask\OsTask\obj\Debug\OsTask.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OsTask\OsTask\obj\Debug\OsTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\OsTask\OsTask\obj\Debug\OsTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OsTask\OsTask\obj\Debug\OsTask.exe
+C:\Users\user\source\repos\OsTask\OsTask\obj\Debug\OsTask.pdb
